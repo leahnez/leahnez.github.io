@@ -19,8 +19,8 @@ website:
         href: education/index.qmd
       - text: "Professional Experience"
         href: experiences/index.qmd
-      - text: "CV"
-        href: cv/index.qmd
+      - text: "Publications"
+        href: 
     
     # your social media handles
     right:
